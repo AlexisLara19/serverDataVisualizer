@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="archivo1">
+    <file>question.png</file>
+  </qresource>
+  <qresource prefix="archivo2">
+    <file>critical.png</file>
+  </qresource>
+</RCC>
